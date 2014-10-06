@@ -1,0 +1,33 @@
+{
+  "name": "Chicle",
+  "designer": "Sudtipos",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 21180,
+  "fonts": [
+    {
+      "name": "Chicle",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Chicle-Regular-TTF.ttf",
+      "postScriptName": "Chicle-Regular",
+      "fullName": "Chicle Regular",
+      "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\nCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\nwith Reserved Font Name \"Chicle\""
+    },
+    {
+      "name": "Chicle",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Chicle-Regular.ttf",
+      "postScriptName": "Chicle-Regular",
+      "fullName": "Chicle-Regular",
+      "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Chicle\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-11-30"
+}
